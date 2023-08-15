@@ -1,4 +1,4 @@
-![Image Alt Text](https://raw.githubusercontent.com/AniDec4ypt3d/AniDec4ypt3d/master/assets/102978058/3c143d22-e827-4aed-8dcd-f26b6f0b9103.jpg)
+![Image Alt Text](https://github-production-user-asset-6210df.s3.amazonaws.com/102978058/260657915-3c143d22-e827-4aed-8dcd-f26b6f0b9103.mp4)
 
 <h1 align="center">Hi 👋, I'm Ani Decrypted</h1>
 <h3 align="center">A passionate programmer from India</h3>
