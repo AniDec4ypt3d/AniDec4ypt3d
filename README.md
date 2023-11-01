@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aircracker2021@hotmail.com**
 
-- ⚡ Fun fact **I think i am a funny guy.**
+- ⚡ Fun fact **i am a funny guy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
